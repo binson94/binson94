@@ -1,5 +1,3 @@
-## 안녕하세요! 👋
-
 <!--
 **binson94/binson94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 자기 소개
+## 안녕하세요! 👋
 - 🔭 홍익대학교 컴퓨터공학과 18학번 재학
 - 🔭 홍익대학교 게임개발 동아리 ExP Make (2018.03 ~)
 - ⚡ Unity, C# 개발
