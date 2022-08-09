@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...
+# 자기 소개
+## 🔭 홍익대학교 컴퓨터공학과 18학번 재학
+## 🔭 홍익대학교 게임개발 동아리 ExP Make (2018.03 ~)
+
+
