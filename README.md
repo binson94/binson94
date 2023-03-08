@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 2022 1학기 학기 중 프로젝트 **쳐라 쳐라 매우 쳐라** [(github)](https://github.com/binson94/HitItHitIt) 2022.04 ~ 2022.07 / Unity, 2D, 스포츠, 캐주얼 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.HitItHitIt)
 - 2022 1학기 게임잼 **Astro Hunters** [(github)](https://github.com/binson94/TimeAttack) 2022.07 / Unity, 2D, 캐주얼 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.AstroHunters)
 - 장기 프로젝트 **기계와 마법** [(github)](https://github.com/binson94/MechVSMagic) 2021.09 ~ 2022.08 / Unity, 2D, RPG / [스토어 링크](https://play.google.com/store/apps/details?id=com.teammvm.mechvsmagic)
-- 2022 2학기 게임잼 **수강신청이 망해버렸으니 학교, 파괴하려합니다!** [(github)](https://github.com/binson94/HongDaeBreaker) 2023.02 / Unity, 2D, 캐주얼 / [스토어 링크]()
+- 2022 2학기 게임잼 **수강신청이 망해버렸으니 학교, 파괴하려합니다!** [(github)](https://github.com/binson94/HongDaeBreaker) 2023.02 / Unity, 2D, 캐주얼 / [스토어 링크](https://play.google.com/store/apps/details?id=com.ExPStudio.HongDaeBreaker)
